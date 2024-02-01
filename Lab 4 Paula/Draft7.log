@@ -1,0 +1,22 @@
+Circuit: * C:\Users\uo294067\Desktop\Draft7.asc
+
+.OP point found by inspection.
+
+Date: Tue Oct 10 19:16:35 2023
+Total elapsed time: 0.056 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2082
+traniter = 2082
+tranpoints = 1042
+accept = 1042
+rejected = 0
+matrix size = 3
+fillins = 0
+solver = Normal
+Avg thread counts: 1.1/1.3/1.3/1.1
+Matrix Compiler1: off  [0.1]/0.1/0.1
+Matrix Compiler2: 175 bytes object code size  0.1/0.1/[0.1]
+

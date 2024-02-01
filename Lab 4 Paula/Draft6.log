@@ -1,0 +1,22 @@
+Circuit: * C:\Users\uo294067\Desktop\Draft6.asc
+
+.OP point found by inspection.
+
+Date: Tue Oct 10 19:15:19 2023
+Total elapsed time: 0.066 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4128
+traniter = 4128
+tranpoints = 2065
+accept = 1530
+rejected = 535
+matrix size = 3
+fillins = 0
+solver = Normal
+Avg thread counts: 1.1/1.1/1.1/1.1
+Matrix Compiler1:       3 opcodes  0.1/[0.1]/0.1
+Matrix Compiler2: 175 bytes object code size  0.1/0.1/[0.1]
+

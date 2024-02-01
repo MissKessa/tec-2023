@@ -1,0 +1,7 @@
+* C:\Users\uo294067\Desktop\Draft8.asc
+R1 Vout Vin 991
+C1 Vout 0 105n
+V1 Vin 0 SINE(0 5 100)
+.tran 30m
+.backanno
+.end

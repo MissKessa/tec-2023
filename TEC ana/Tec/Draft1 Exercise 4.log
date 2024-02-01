@@ -1,0 +1,25 @@
+Circuit: * C:\Users\paula\Downloads\Tec-20231106T223931Z-001\Tec\Draft1 Exercise 4.asc
+
+.OP point found by inspection.
+.step temp=25°C
+.step temp=75°C
+.step temp=150°C
+
+Date: Mon Nov  6 23:43:38 2023
+Total elapsed time: 0.585 seconds.
+
+tnom = 27
+temp = 150
+method = modified trap
+totiter = 2336
+traniter = 2336
+tranpoints = 1136
+accept = 1102
+rejected = 34
+matrix size = 4
+fillins = 0
+solver = Normal
+Avg thread counts: 2.7/4.5/4.5/2.7
+Matrix Compiler1:       7 opcodes  0.2/[0.2]/0.2
+Matrix Compiler2: off  [0.1]/0.2/0.2
+
